@@ -1,0 +1,20 @@
+{
+  "station": {
+    "name": "XX废品回收站",
+    "address": "XX市XX区XX路XX号",
+    "phone": "13800138000",
+    "latitude": 30.0,
+    "longitude": 120.0
+  },
+  "prices": [
+    { "name": "黄纸板", "unit": "斤", "price": 0.8 },
+    { "name": "书本纸", "unit": "斤", "price": 0.6 },
+    { "name": "报纸", "unit": "斤", "price": 0.7 },
+    { "name": "塑料瓶", "unit": "斤", "price": 1.2 },
+    { "name": "易拉罐", "unit": "斤", "price": 3.5 },
+    { "name": "废铁", "unit": "斤", "price": 1.0 },
+    { "name": "废铜", "unit": "斤", "price": 25.0 },
+    { "name": "废铝", "unit": "斤", "price": 5.0 }
+  ],
+  "updateDate": "2026-03-14"
+}
