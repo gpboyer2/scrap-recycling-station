@@ -1,0 +1,11 @@
+{
+  "web-search": {
+    "command": "open-websearch",
+    "args": [],
+    "env": {
+      "MODE": "stdio",
+      "DEFAULT_SEARCH_ENGINE": "baidu",
+      "ALLOWED_SEARCH_ENGINES": "baidu,juejin,csdn,google"
+    }
+  }
+}

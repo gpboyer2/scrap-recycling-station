@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "open-websearch": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "ghcr.io/aas-ee/open-web-search:latest"],
+      "env": {
+        "ENGINES": "baidu,juejin,csdn,google"
+      }
+    }
+  }
+}
